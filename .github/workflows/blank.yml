@@ -24,6 +24,7 @@ jobs:
 
       - name: Patch empty cells with sleeping emoji
         run: |
+          sudo chmod -R a+rwX dist
           python3 scripts/patch_snake.py dist/github-contribution-grid-snake.svg
           python3 scripts/patch_snake.py dist/github-contribution-grid-snake-dark.svg
 

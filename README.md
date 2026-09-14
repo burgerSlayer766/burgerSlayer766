@@ -1,3 +1,11 @@
+- 👋 Hi, I'm @StasOskol (Stanislav Oskol)
+- 👀 Interested in Frontend
+- 💞 Looking forward to cooperate with you
+- 📫 You can contact me by mail: stanislav.osk@mail.ru
+
+---
+
+
 <div align="center">
   <picture>
     <!-- Основной вариант для темной темы -->

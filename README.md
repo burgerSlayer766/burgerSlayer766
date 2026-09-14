@@ -1,7 +1,7 @@
-- 👋 Hi, I'm @StasOskol (Stanislav Oskol)
-- 👀 Interested in Frontend
+- 👋 Hi, I'm developer
+- 👀 Interested in Frontend,Unity,Unreal Engine
 - 💞 Looking forward to cooperate with you
-- 📫 You can contact me by mail: stanislav.osk@mail.ru
+- 📫 You can contact me by mail: burgerslayer77@gmail.com
 
 ---
 

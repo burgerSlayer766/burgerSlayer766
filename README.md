@@ -1,5 +1,5 @@
 <h1 align="center">😴 BurgerSlayer</h1>
-<h3 align="center">Junior Developer · C# / C++ / JS / TS / React</h3>
+<h3 align="center">Младший разработчик · C# / C++ / JS / TS / React</h3>
 
 <p align="center">
   <a href="https://github.com/burgerSlayer766?tab=followers">
@@ -32,19 +32,22 @@
 ### 📊 Статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=burgerSlayer766&show_icons=true&hide_border=true&count_private=true&locale=ru&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgerSlayer766&layout=compact&hide_border=true&locale=ru&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=burgerSlayer766&show_icons=true&hide_border=true&count_private=true&locale=ru&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=burgerSlayer766&layout=compact&hide_border=true&locale=ru&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burgerSlayer766&hide_border=true&locale=ru&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=burgerSlayer766&hide_border=true&locale=ru&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 Достижения
 
-<img src="https://github-profile-trophy-sigma-one.vercel.app/?username=burgerSlayer766&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=burgerSlayer766&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
 ---
 
 ### 🐍 Активность

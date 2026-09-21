@@ -44,10 +44,7 @@
 
 ### 🏆 Достижения
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=burgerSlayer766&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
+<img src="https://github-profile-trophy-sigma-one.vercel.app/?username=burgerSlayer766&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 ---
 
 ### 🐍 Активность

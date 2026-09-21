@@ -46,14 +46,6 @@
 
 ---
 
-### 🏆 Достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=burgerSlayer766&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
 ### 🐍 Активность
 
 <p align="center">

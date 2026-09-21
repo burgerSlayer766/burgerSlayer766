@@ -1,4 +1,4 @@
-<h1 align="center">quickzx </h1>
+<h1 align="center"> </h1>
 <h3 align="center">Младший разработчик · C# / C++ / JS / TS / React</h3>
 
 <p align="center">

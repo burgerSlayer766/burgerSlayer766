@@ -16,15 +16,15 @@
 ### 🧠 Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,react" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,react" height="48" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,nginx,postgres,mysql" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,postgres,mysql" height="48" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="48" />
 </p>
 
 ---

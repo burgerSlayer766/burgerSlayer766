@@ -36,7 +36,7 @@
 ### 📊 Статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=burgerSlayer766&show_icons=true&hide_border=true&count_private=true&locale=ru&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=quickzx&show_icons=true&hide_border=true&count_private=true&locale=ru&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=burgerSlayer766&layout=compact&hide_border=true&locale=ru&theme=tokyonight" />
 </p>
 

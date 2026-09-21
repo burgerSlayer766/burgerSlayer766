@@ -5,15 +5,6 @@
 
 ---
 
-<!-- МОЯ КАРТИНКА -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/burgerSlayer766/burgerSlayer766/main/assets/banner.png"
-       alt="my banner"
-       width="100%" />
-</div>
-
----
-
 <!-- SNAKE-АНИМАЦИЯ -->
 <div align="center">
   <picture>

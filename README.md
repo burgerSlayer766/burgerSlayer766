@@ -1,63 +1,56 @@
-<h1 align="center">😴 BurgerSlayer / junior developer </h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-</div>
-
-###
+<h1 align="center">😴 BurgerSlayer</h1>
+<h3 align="center">Junior Developer · C# / C++ / JS / TS / React</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=burgerSlayer766&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <a href="https://github.com/burgerSlayer766?tab=followers">
+    <img src="https://img.shields.io/github/followers/burgerSlayer766?label=Followers&style=for-the-badge&color=6C5CE7&labelColor=1e1e2e" />
+  </a>
+  <a href="https://github.com/burgerSlayer766?tab=repositories">
+    <img src="https://img.shields.io/github/stars/burgerSlayer766?label=Stars&style=for-the-badge&color=00B894&labelColor=1e1e2e" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=burgerSlayer766&style=for-the-badge&color=0984e3&label=PROFILE+VIEWS" />
 </p>
 
-###
+---
+
+### 🧠 Стек
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=burgerSlayer766&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,react" height="48" />
 </p>
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,nginx,postgres,mysql" height="48" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim" height="48" />
+</p>
+
+---
+
+### 📊 Статистика
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=burgerSlayer766&show_icons=true&hide_border=true&count_private=true&locale=ru&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgerSlayer766&layout=compact&hide_border=true&locale=ru&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burgerSlayer766&hide_border=true&locale=ru&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Достижения
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=burgerSlayer766&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+---
+
+### 🐍 Активность
 
 <p align="center">
   <picture>
@@ -65,4 +58,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burgerSlayer766/burgerSlayer766/refs/heads/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/burgerSlayer766/burgerSlayer766/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>Открыт к стажировкам и junior-позициям · <a href="https://github.com/burgerSlayer766">GitHub</a></i>
 </p>

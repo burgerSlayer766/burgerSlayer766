@@ -1,4 +1,4 @@
-<h1 align="center">😴 BurgerSlayer / experienced coder </h1>
+<h1 align="center">😴 BurgerSlayer / junior developer </h1>
 
 ###
 

@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,nginx,postgres,mysql" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,postgres,mysql" height="48" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="48" />
 </p>
 
 ---
